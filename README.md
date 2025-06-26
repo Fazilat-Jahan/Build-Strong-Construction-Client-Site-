@@ -2,7 +2,7 @@
 
 This is a stunning, responsive, and fully functional website built for **Build Strong Construction**, a modern construction company. The site is designed to showcase company details and make it easy for clients to get in touch.
 
-🔗 **Live Site**: [build-strong-construction.vercel.app](https://build-strong-construction.vercel.app/)
+🔗 **Live Site**: [build-strong-construction](https://build-strong-construction.vercel.app/)
 
 ---
 
@@ -40,9 +40,9 @@ If you're interested in working on a similar project or want to see a demo, feel
 **Fazilat Jahan**  
 _Web Developer_
 
-- 📂 **Portfolio**: [my-portfolio-fazilat-jahans-projects.vercel.app](https://my-portfolio-fazilat-jahans-projects.vercel.app/)
-- 🔗 **LinkedIn**: [linkedin.com/in/fazilat-jahan](https://www.linkedin.com/in/fazilat-jahan-web-developer/)
-- 🐦 **X (Twitter)**: [x.com/fazilat_jahan](https://x.com/ItxFaziSays))
+- 📂 **Portfolio**: [my-portfolio-fazilat-jahans](https://my-portfolio-fazilat-jahans-projects.vercel.app/)
+- 🔗 **LinkedIn**: [linkedin](https://www.linkedin.com/in/fazilat-jahan-web-developer/)
+- 🐦 **X (Twitter)**: [x](https://x.com/ItxFaziSays)
 
 ---
 
