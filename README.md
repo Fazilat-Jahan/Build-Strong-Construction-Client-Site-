@@ -40,9 +40,9 @@ If you're interested in working on a similar project or want to see a demo, feel
 **Fazilat Jahan**  
 _Web Developer_
 
-- 📂 **Portfolio**: [my-portfolio-fazilat-jahans](https://my-portfolio-fazilat-jahans-projects.vercel.app/)
+- 📂 **Portfolio**: [my-portfolio-fazilat-jahan](https://my-portfolio-fazilat-jahans-projects.vercel.app/)
 - 🔗 **LinkedIn**: [linkedin](https://www.linkedin.com/in/fazilat-jahan-web-developer/)
-- 🐦 **X (Twitter)**: [x](https://x.com/ItxFaziSays)
+- 🐦 **X (Twitter)**: [X](https://x.com/ItxFaziSays)
 
 ---
 
